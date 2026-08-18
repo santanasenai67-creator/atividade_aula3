@@ -21,3 +21,5 @@ Google
 Site do Google Store muito bem estruturado, diferente do Yale School of Art que tem muitos erros fazendo o site ficar ruim
 
 ## Link dos sites
+Google Play Store
+Yale School of Art
